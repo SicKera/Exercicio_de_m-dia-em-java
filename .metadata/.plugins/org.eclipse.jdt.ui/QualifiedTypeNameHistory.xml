@@ -9,5 +9,6 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.agenda.model.Contato"/>
     <fullyQualifiedTypeName name="com.agenda.dao.ContatoDAO"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
