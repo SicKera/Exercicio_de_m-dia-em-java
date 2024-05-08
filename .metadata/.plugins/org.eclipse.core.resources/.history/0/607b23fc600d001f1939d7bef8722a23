@@ -1,0 +1,10 @@
+package br.com.curso_programacao.aplicacao;
+
+public class Exercicios_Matematica {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

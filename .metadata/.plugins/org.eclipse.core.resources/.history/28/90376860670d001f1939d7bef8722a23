@@ -1,0 +1,23 @@
+package br.com.curso_programacao.aplicacao;
+
+import java.util.Scanner;
+
+public class Mat_Exercicio3 {
+
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		int A, B, C, D;
+		int diferenca = ((A*B) - (C*D));
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
